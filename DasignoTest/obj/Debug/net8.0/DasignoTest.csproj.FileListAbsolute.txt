@@ -135,3 +135,5 @@ D:\david\DasignoTest\DasignoTest\DasignoTest\obj\Debug\net8.0\refint\DasignoTest
 D:\david\DasignoTest\DasignoTest\DasignoTest\obj\Debug\net8.0\DasignoTest.pdb
 D:\david\DasignoTest\DasignoTest\DasignoTest\obj\Debug\net8.0\DasignoTest.genruntimeconfig.cache
 D:\david\DasignoTest\DasignoTest\DasignoTest\obj\Debug\net8.0\ref\DasignoTest.dll
+D:\david\DasignoTest\DasignoTest\DasignoTest\obj\Debug\net8.0\DasignoTest.sourcelink.json
+D:\david\DasignoTest\DasignoTest\DasignoTest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
