@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\david\\DasignoTest\\DasignoTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\controllers\\userscontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\controllers\\userscontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\auxservices\\middleware\\seedmigrationsndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\auxservices\\middleware\\seedmigrationsndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\dtos\\userdtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\dtos\\userdtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\entitys\\users\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\entitys\\users\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\dtos\\userdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\dtos\\userdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\auxservices\\middleware\\automatemigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\auxservices\\middleware\\automatemigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Migrations\\20240912224815_FixMIG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DasignoTest\\Migrations\\20240912224815_FixMIG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\auxmodels\\auxresponsemodels\\commonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\auxmodels\\auxresponsemodels\\commonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\auxmodels\\auxresponsemodels\\requestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\auxmodels\\auxresponsemodels\\requestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Migrations\\20240912202428_InitMIG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DasignoTest\\Migrations\\20240912202428_InitMIG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|d:\\david\\dasignotest\\dasignotest\\dasignotest\\dasignotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C3BC13D-9338-4541-AF11-C0EEEB309694}|DasignoTest\\DasignoTest.csproj|solutionrelative:dasignotest\\dasignotest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommonResponse.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\AuxModels\\AuxResponseModels\\CommonResponse.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\AuxModels\\AuxResponseModels\\CommonResponse.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\AuxModels\\AuxResponseModels\\CommonResponse.cs",
+              "RelativeToolTip": "DasignoTest\\AuxModels\\AuxResponseModels\\CommonResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:50:00.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\DTOs\\userDTOs\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\DTOs\\userDTOs\\UpdateUserDTO.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\DTOs\\userDTOs\\UpdateUserDTO.cs",
+              "RelativeToolTip": "DasignoTest\\DTOs\\userDTOs\\UpdateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAADJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:32:32.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Controllers\\UsersController\\UserController.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\Controllers\\UsersController\\UserController.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Controllers\\UsersController\\UserController.cs",
+              "RelativeToolTip": "DasignoTest\\Controllers\\UsersController\\UserController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:22:10.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "requestResponse.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\AuxModels\\AuxResponseModels\\requestResponse.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\AuxModels\\AuxResponseModels\\requestResponse.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\AuxModels\\AuxResponseModels\\requestResponse.cs",
+              "RelativeToolTip": "DasignoTest\\AuxModels\\AuxResponseModels\\requestResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:31:22.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Entitys\\Users\\Users.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\Entitys\\Users\\Users.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Entitys\\Users\\Users.cs",
+              "RelativeToolTip": "DasignoTest\\Entitys\\Users\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:34:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240912202428_InitMIG.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Migrations\\20240912202428_InitMIG.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\Migrations\\20240912202428_InitMIG.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Migrations\\20240912202428_InitMIG.cs",
+              "RelativeToolTip": "DasignoTest\\Migrations\\20240912202428_InitMIG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:24:28.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Services\\UserServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\Services\\UserServices\\IUserService.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Services\\UserServices\\IUserService.cs",
+              "RelativeToolTip": "DasignoTest\\Services\\UserServices\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:46:14.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Services\\UserServices\\UserService.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\Services\\UserServices\\UserService.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Services\\UserServices\\UserService.cs",
+              "RelativeToolTip": "DasignoTest\\Services\\UserServices\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:46:31.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedMigrationsNData.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\AuxServices\\Middleware\\SeedMigrationsNData.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\AuxServices\\Middleware\\SeedMigrationsNData.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\AuxServices\\Middleware\\SeedMigrationsNData.cs",
+              "RelativeToolTip": "DasignoTest\\AuxServices\\Middleware\\SeedMigrationsNData.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:45:26.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutomateMigrations.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\AuxServices\\Middleware\\AutomateMigrations.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\AuxServices\\Middleware\\AutomateMigrations.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\AuxServices\\Middleware\\AutomateMigrations.cs",
+              "RelativeToolTip": "DasignoTest\\AuxServices\\Middleware\\AutomateMigrations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:18:48.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\appsettings.json",
+              "RelativeDocumentMoniker": "DasignoTest\\appsettings.json",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\appsettings.json",
+              "RelativeToolTip": "DasignoTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T13:47:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\DTOs\\userDTOs\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\DTOs\\userDTOs\\CreateUserDTO.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\DTOs\\userDTOs\\CreateUserDTO.cs",
+              "RelativeToolTip": "DasignoTest\\DTOs\\userDTOs\\CreateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAADJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:41:42.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240912224815_FixMIG.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Migrations\\20240912224815_FixMIG.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\Migrations\\20240912224815_FixMIG.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Migrations\\20240912224815_FixMIG.cs",
+              "RelativeToolTip": "DasignoTest\\Migrations\\20240912224815_FixMIG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:48:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Program.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\Program.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\Program.cs",
+              "RelativeToolTip": "DasignoTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:55:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\DBContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DasignoTest\\DBContext\\AppDBContext.cs",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\DBContext\\AppDBContext.cs",
+              "RelativeToolTip": "DasignoTest\\DBContext\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:32:08.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DasignoTest.csproj",
+              "DocumentMoniker": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\DasignoTest.csproj",
+              "RelativeDocumentMoniker": "DasignoTest\\DasignoTest.csproj",
+              "ToolTip": "D:\\david\\DasignoTest\\DasignoTest\\DasignoTest\\DasignoTest.csproj",
+              "RelativeToolTip": "DasignoTest\\DasignoTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T02:11:47.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
