@@ -8,15 +8,16 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace DasignoTest.AuxServices.Middleware
 {
-    public class SeedMigrationsNData
+    public class SeedMigrationsNData 
     {
-        public RequestDelegate _next { get; }
-        public SeedMigrationsNData(RequestDelegate next)
+        private readonly AppDBContext dBContext;
+
+        public SeedMigrationsNData(AppDBContext dBContext)
         {
-            _next = next;
+            this.dBContext = dBContext;
         }
 
-        public async Task InvokeAsync(HttpContext context, AppDBContext dBContext)
+        public async Task SeedDataAsync()
         {
            
 
@@ -38,7 +39,7 @@ namespace DasignoTest.AuxServices.Middleware
                 await dBContext.users.AddRangeAsync(users);
                 await dBContext.SaveChangesAsync();
             }
-            await _next(context);
+            
         }   
     }
 }

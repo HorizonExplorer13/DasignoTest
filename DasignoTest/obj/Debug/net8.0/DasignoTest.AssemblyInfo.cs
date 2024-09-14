@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DasignoTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcb1c55136262554860c0ebb661ba84331736d94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cb53f5f2e3e824f3c96ff795583acb2dd9f6724")]
 [assembly: System.Reflection.AssemblyProductAttribute("DasignoTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DasignoTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
